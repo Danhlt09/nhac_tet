@@ -31,9 +31,10 @@ p {
 
 /* Định dạng audio (nếu có) */
 audio {
-    margin: 35px auto;
+    margin: 20px auto;
     display: block;
     width: 50%;
+    height: 20px;
 }
 
 /* Định dạng nút nếu có */
