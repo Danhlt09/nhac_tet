@@ -1,0 +1,68 @@
+/* Đặt kiểu dáng tổng thể cho trang web */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Định dạng tiêu đề chính */
+h1 {
+    font-size: 2.5rem;
+    color: #4CAF50;
+    margin-top: 20px;
+}
+
+h2 {
+    font-size: 1.8rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Định dạng đoạn văn */
+p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin: 20px;
+    color: #555;
+}
+
+/* Định dạng audio (nếu có) */
+audio {
+    margin: 20px auto;
+    display: block;
+    width: 80%;
+}
+
+/* Định dạng nút nếu có */
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    color: white;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Tạo khoảng cách đều cho nội dung */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Định dạng footer nếu muốn thêm */
+footer {
+    margin-top: 30px;
+    padding: 10px 0;
+    background-color: #333;
+    color: white;
+    font-size: 14px;
+}
