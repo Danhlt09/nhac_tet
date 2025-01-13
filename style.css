@@ -11,22 +11,22 @@ body {
 /* Định dạng tiêu đề chính */
 h1 {
     font-size: 2.5rem;
-    color: #4CAF50;
+    color: black;
     margin-top: 20px;
 }
 
 h2 {
-    font-size: 1.8rem;
-    color: #333;
+    font-size: 3.0rem;
+    color: green;
     margin-bottom: 20px;
 }
 
 /* Định dạng đoạn văn */
 p {
-    font-size: 1.2rem;
+    font-size: 2.0rem;
     line-height: 1.6;
     margin: 20px;
-    color: #555;
+    color: blue;
 }
 
 /* Định dạng audio (nếu có) */
@@ -34,7 +34,7 @@ audio {
     margin: 20px auto;
     display: block;
     width: 50%;
-    height: 50px;
+    height: 500px;
 }
 
 /* Định dạng nút nếu có */
