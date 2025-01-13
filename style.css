@@ -31,9 +31,9 @@ p {
 
 /* Định dạng audio (nếu có) */
 audio {
-    margin: 20px auto;
+    margin: 35px auto;
     display: block;
-    width: 80%;
+    width: 50%;
 }
 
 /* Định dạng nút nếu có */
@@ -43,7 +43,7 @@ button {
     color: white;
     background-color: #007BFF;
     border: none;
-    border-radius: 5px;
+    border-radius: 2px;
     cursor: pointer;
 }
 
