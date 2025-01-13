@@ -2,7 +2,8 @@
 body {
     font-family: 'Arial', sans-serif;
     background-image: url("tet2025.jpg");
-    background-size: cover;
+    background-size: contain;
+    background-position: center;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -16,7 +17,7 @@ h1 {
 }
 
 h2 {
-    font-size: 3.0rem;
+    font-size: 5.0rem;
     color: green;
     margin-bottom: 20px;
 }
@@ -34,7 +35,7 @@ audio {
     margin: 20px auto;
     display: block;
     width: 50%;
-    height: 500px;
+    height: 200px;
 }
 
 /* Định dạng nút nếu có */
