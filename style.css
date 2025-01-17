@@ -1,5 +1,7 @@
 /* Đặt kiểu dáng tổng thể cho trang web */
 body {
+    width: 1200px;
+    height: 80vh;
     font-family: 'Arial', sans-serif;
     background-image: url("tet2025.jpg");
     background-size: contain;
